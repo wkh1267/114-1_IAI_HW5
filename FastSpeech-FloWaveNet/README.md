@@ -1,7 +1,7 @@
 # FastSpeech-FloWaveNet
 This repository is adapted from [FastSpeech-Pytorch](https://github.com/xcmyz/FastSpeech) from `xcmyz`, [FloWaveNet](https://github.com/ksw0306/FloWaveNet) from `kws0306`, and [FastSpeech-FloWaveNet](https://github.com/cjlin8787/FastSpeech-FloWaveNet) from `cjlin8787`. Instead of using WaveGlow, FastSpeech from this repository use FloWaveNet as the vocoder. Many thanks to the original authors. Please check their repositories for more detailed description.
 
-Using [colab](https://colab.research.google.com/drive/1wSFNqDYhSQ98oIo4viGenG3G1nVK24d3?usp=sharing) (Recommanded)
+Using [colab](https://colab.research.google.com/drive/1u-Srd24cOvPHla63tq1MBQ7DgQlUh0d6?usp=sharing) (Recommanded)
 
 On local (setting up manually):
 
