@@ -1,8 +1,12 @@
-# 112-1-IAI HW5
+# 114-1-IAI HW5
 This repository is the template for the homework 5 of 人工智慧概論/Introduction to Artificial Intelligence. Department of Biomechatronics Engineering, National Taiwan University.
 
 ## Introduction
 Recent advances in generative artificial intelligence (AI) have created many possibilities, but this new technology also poses many challenges to society. Currently, generative AI can generate highly realistic audio data. In this project, you will design a supervised learning prediction model to verify whether the given audio data is from a real recording or the result of AI generation.
+
+Using [colab](https://colab.research.google.com/drive/1KGTkhNoPG_KfvcRNqQw0RPLliC02rfGI?usp=sharing) (Recommanded)
+
+On local (setting up manually):
 
 ## Prepare Training Data
 1. Git clone this repository.
@@ -27,7 +31,6 @@ requirements.txt
 2. The `meta` contains the path to each `wav` file (column 1), and the corresponding label (column 2). If the audio is a real recording, the label will be `0`. If the audio is generated from AI, the label will be `1`.
 
 ## Setup Environment
-Using [colab](https://colab.research.google.com/drive/1UOpV8u_dBYbgnhJ-3qKZjd7JNcF-eczi?usp=sharing)
 
 On local:
 Please check the [Pytorch](https://pytorch.org) website if CUDA version needs to be downloaded.
