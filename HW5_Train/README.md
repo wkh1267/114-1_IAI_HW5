@@ -11,7 +11,7 @@ On local (setting up manually):
 ## Prepare Training Data
 1. Git clone this repository.
 ```
-git clone https://github.com/wkh1267/113-1_IAI_HW5.git
+git clone https://github.com/wkh1267/114-1_IAI_HW5.git
 ```
 
 The directory should look like the following:
@@ -32,7 +32,6 @@ requirements.txt
 
 ## Setup Environment
 
-On local:
 Please check the [Pytorch](https://pytorch.org) website if CUDA version needs to be downloaded.
 ```
 conda create -n fastspeech python=3.8 --yes
