@@ -77,7 +77,7 @@ train_dataset
 
 * Please check `dataset.py` for the definition of `Dataset`. `main.py` for the main training and prediction workflow.
 * Please do not change anything except `def setup_model()`, `def train_epochs()`, `def pred_prob()`,
- `def predict()`, and `def evaluate()`. Please do not change the API (parameters and return values) of these function.
+ `def predict()`, and `def evaluate()`. Please do not change the I/O of these function.
 * When evaluating the homework, only the following instructions will be used:
 ```
 test_dataset = HW5Dataset('../test_dataset/meta.csv')
