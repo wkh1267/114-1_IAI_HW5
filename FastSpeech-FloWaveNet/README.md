@@ -26,7 +26,7 @@ mamba install "package_name<version"
 Or create a new env with python=3.9 and try again.
 
 ## Synthesize
-The result will be written into `results/${step}_${flowavenets_step}`. Please change `flowavenet_step` according to the file downloaded from [Prepare FloWaveNet Model](#prepare-flowavenet-model) to synthesize audio in different quality.
+The result will be written into `results/${step}_${flowavenets_step}`. Please change `flowavenet_step` according to the pre-trained models downloaded from previous step to synthesize audio in different quality.
 ```
 python synthesize.py --file generate.txt --step 135000 --flowavenet_step 126764
 ```
