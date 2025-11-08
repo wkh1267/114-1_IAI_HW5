@@ -4,7 +4,7 @@ This repository is the template for the homework 5 of 人工智慧概論/Introdu
 ## Introduction
 Recent advances in generative artificial intelligence (AI) have created many possibilities, but this new technology also poses many challenges to society. Currently, generative AI can generate highly realistic audio data. In this project, you will design a supervised learning prediction model to verify whether the given audio data is from a real recording or the result of AI generation.
 
-+ Using [colab](https://colab.research.google.com/drive/1KGTkhNoPG_KfvcRNqQw0RPLliC02rfGI?usp=sharing) "(Recommanded)"
++ Using [colab](https://colab.research.google.com/drive/1KGTkhNoPG_KfvcRNqQw0RPLliC02rfGI?usp=sharing) **(Recommanded)**
 
 + On local (setting up manually):
 
@@ -14,7 +14,7 @@ Recent advances in generative artificial intelligence (AI) have created many pos
 git clone https://github.com/wkh1267/114-1_IAI_HW5.git
 ```
 
-Under main directory /HW5_Train should look like the following:
+Under main directory HW5_Train/ should look like the following:
 ```
 train_dataset
 ├── meta.csv
