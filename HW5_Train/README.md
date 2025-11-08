@@ -14,7 +14,7 @@ On local (setting up manually):
 git clone https://github.com/wkh1267/114-1_IAI_HW5.git
 ```
 
-The directory should look like the following:
+Under main directory /HW5_Train should look like the following:
 ```
 train_dataset
 ├── meta.csv
