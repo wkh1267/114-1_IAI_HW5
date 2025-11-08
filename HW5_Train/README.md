@@ -59,7 +59,7 @@ Or create a new env with python=3.9 and try again.
         * [10 Points] finish `def evaluate(y_true, y_pred)`.
     * Model evaluation on held-out test set.
         * [30 × (F1 score - 0.5) Points]
-    * Note that the provided sample data is very imbalance, please check [FastSpeech-FloWaveNet](https://github.com/wkh1267/113-1_IAI_HW5/tree/main/FastSpeech-FloWaveNet) for data generation.
+    * Note that the provided sample data is very imbalance, please check [FastSpeech-FloWaveNet](https://github.com/wkh1267/114-1_IAI_HW5/tree/main/FastSpeech-FloWaveNet) for data generation.
         * [10 Points] setup environment and generate at least 5 audio (2 points for each file) based on your custom text prompt.
         * Please put the audio you generated under `train_dataset/wavs/`. The directory should look like the following.
  ```
